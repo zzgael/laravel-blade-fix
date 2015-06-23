@@ -3,7 +3,7 @@
     "description": "Fix for the @parent replaced string within Blade templates. see https://github.com/laravel/framework/issues/7888",
     "type": "library",
     "require": {
-        "illuminate/view": "^5.2@dev"
+        "illuminate/view": "4.2.x"
     },
     "license": "MIT",
     "authors": [
